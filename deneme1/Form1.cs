@@ -36,13 +36,13 @@ namespace deneme1
         UInt16 address = 16376; //Port address of Lenovo T530 for PCI Parallel Port, check EEG Based BCI Experiments Manual for further info
 
         int trial = 100;             // total number of trials
-        int balance = 10000;          // $500
-        int clickLimit = 2;         // 2 sec wait after click - timer1
+        int balance = 10000;         
+        int clickLimit = 2;          // 2 sec wait after click - timer1
         int clickCounter = 0;
-        int clickEvent = 0;         // which card is chosen 1-2-3-4
-        int showLimit = 2;          // 2 sec show selected card response  - timer2
+        int clickEvent = 0;          // which card is chosen 1-2-3-4
+        int showLimit = 2;           // 2 sec show selected card response  - timer2
         int showCounter = 0;
-        int balanceLimit = 2;          // 2 sec show balance  - timer3
+        int balanceLimit = 2;        // 2 sec show balance  - timer3
         int balanceCounter = 0;
 
         public Form1()
