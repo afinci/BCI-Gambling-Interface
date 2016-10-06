@@ -1,0 +1,42 @@
+C:\Users\Ahmet Fatih Inci\Documents\Visual Studio 2008\Projects\deneme1\deneme1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Ahmet Fatih Inci\Documents\Visual Studio 2008\Projects\deneme1\deneme1\obj\Debug\deneme1.Form1.resources
+C:\Users\Ahmet Fatih Inci\Documents\Visual Studio 2008\Projects\deneme1\deneme1\obj\Debug\deneme1.Properties.Resources.resources
+C:\Users\Ahmet Fatih Inci\Documents\Visual Studio 2008\Projects\deneme1\deneme1\obj\Debug\deneme1.csproj.GenerateResource.Cache
+C:\Users\Ahmet Fatih Inci\Documents\Visual Studio 2008\Projects\deneme1\deneme1\bin\Debug\deneme1.exe
+C:\Users\Ahmet Fatih Inci\Documents\Visual Studio 2008\Projects\deneme1\deneme1\bin\Debug\deneme1.pdb
+C:\Users\Ahmet Fatih Inci\Documents\Visual Studio 2008\Projects\deneme1\deneme1\obj\Debug\deneme1.exe
+C:\Users\Ahmet Fatih Inci\Documents\Visual Studio 2008\Projects\deneme1\deneme1\obj\Debug\deneme1.pdb
+C:\Users\Ahmet Fatih Inci\Documents\Visual Studio 2008\Projects\ikili gambling\deneme1\obj\Debug\deneme1.exe
+C:\Users\Ahmet Fatih Inci\Documents\Visual Studio 2008\Projects\ikili gambling\deneme1\obj\Debug\deneme1.pdb
+C:\Users\Ahmet Fatih Inci\Documents\Visual Studio 2008\Projects\ikili gambling\deneme1\bin\Debug\deneme1.exe
+C:\Users\Ahmet Fatih Inci\Documents\Visual Studio 2008\Projects\ikili gambling\deneme1\bin\Debug\deneme1.pdb
+C:\Users\Ahmet Fatih Inci\Documents\Visual Studio 2008\Projects\ikili gambling\deneme1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Ahmet Fatih Inci\Documents\Visual Studio 2008\Projects\ikili gambling\deneme1\obj\Debug\deneme1.Form1.resources
+C:\Users\Ahmet Fatih Inci\Documents\Visual Studio 2008\Projects\ikili gambling\deneme1\obj\Debug\deneme1.Properties.Resources.resources
+C:\Users\Ahmet Fatih Inci\Documents\Visual Studio 2008\Projects\ikili gambling\deneme1\obj\Debug\deneme1.csproj.GenerateResource.Cache
+C:\Users\eeg\Desktop\Ahmet\ikili gambling\deneme1\obj\Debug\deneme1.exe
+C:\Users\eeg\Desktop\Ahmet\ikili gambling\deneme1\obj\Debug\deneme1.pdb
+C:\Users\eeg\Desktop\Ahmet\ikili gambling\deneme1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\eeg\Desktop\Ahmet\ikili gambling\deneme1\obj\Debug\deneme1.Form1.resources
+C:\Users\eeg\Desktop\Ahmet\ikili gambling\deneme1\obj\Debug\deneme1.Properties.Resources.resources
+C:\Users\eeg\Desktop\Ahmet\ikili gambling\deneme1\obj\Debug\deneme1.csproj.GenerateResource.Cache
+C:\Users\eeg\Desktop\Ahmet\ikili gambling\deneme1\bin\Debug\deneme1.exe
+C:\Users\eeg\Desktop\Ahmet\ikili gambling\deneme1\bin\Debug\deneme1.pdb
+C:\Users\Ahmet Fatih Inci\Desktop\Ahmet\ikili gambling\deneme1\obj\Debug\deneme1.exe
+C:\Users\Ahmet Fatih Inci\Desktop\Ahmet\ikili gambling\deneme1\obj\Debug\deneme1.pdb
+C:\Users\Ahmet Fatih Inci\Desktop\Ahmet\ikili gambling 25 100\deneme1\obj\Debug\deneme1.exe
+C:\Users\Ahmet Fatih Inci\Desktop\Ahmet\ikili gambling 25 100\deneme1\obj\Debug\deneme1.pdb
+C:\Users\Ahmet Fatih Inci\Desktop\Ahmet\ikili gambling 25 100\deneme1\bin\Debug\deneme1.exe
+C:\Users\Ahmet Fatih Inci\Desktop\Ahmet\ikili gambling 25 100\deneme1\bin\Debug\deneme1.pdb
+C:\Users\Ahmet Fatih Inci\Desktop\Ahmet\ikili gambling 25 100\deneme1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Ahmet Fatih Inci\Desktop\Ahmet\ikili gambling 25 100\deneme1\obj\Debug\deneme1.Form1.resources
+C:\Users\Ahmet Fatih Inci\Desktop\Ahmet\ikili gambling 25 100\deneme1\obj\Debug\deneme1.Properties.Resources.resources
+C:\Users\Ahmet Fatih Inci\Desktop\Ahmet\ikili gambling 25 100\deneme1\obj\Debug\deneme1.csproj.GenerateResource.Cache
+C:\Users\eeg\Desktop\Ahmet\ikili gambling 25 100\deneme1\obj\Debug\deneme1.exe
+C:\Users\eeg\Desktop\Ahmet\ikili gambling 25 100\deneme1\obj\Debug\deneme1.pdb
+C:\Users\eeg\Desktop\Ahmet\ikili gambling 25 100\deneme1\bin\Debug\deneme1.exe
+C:\Users\eeg\Desktop\Ahmet\ikili gambling 25 100\deneme1\bin\Debug\deneme1.pdb
+C:\Users\eeg\Desktop\Ahmet\ikili gambling 25 100\deneme1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\eeg\Desktop\Ahmet\ikili gambling 25 100\deneme1\obj\Debug\deneme1.Form1.resources
+C:\Users\eeg\Desktop\Ahmet\ikili gambling 25 100\deneme1\obj\Debug\deneme1.Properties.Resources.resources
+C:\Users\eeg\Desktop\Ahmet\ikili gambling 25 100\deneme1\obj\Debug\deneme1.csproj.GenerateResource.Cache
